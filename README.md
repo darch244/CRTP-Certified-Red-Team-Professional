@@ -1,32 +1,13 @@
-Now I have everything I need. Let me build the complete, massive, professional CRTP database.
 
 
-Write the massive CRTP master database markdown file
-Write the massive CRTP master database markdown file
+CRTP — Certified Red Team Professional
+Altered Security | Attacking & Defending Active Directory
 
-Write the massive CRTP master database markdown file
-bash
+By DarcHacker.
 
+LinkedIn:www.linkedin.com/in/mostafa-ibrahim-60b543341
 
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║   CERTIFICATION:  Certified Red Team Professional® (CRTP®)              ║
-║   PROVIDER:       Altered Security (alteredsecurity.com)                 ║
-║   INSTRUCTOR:     Nikhil Mittal — BlackHat USA / DEF CON Trainer        ║
-║   COURSE:         Attacking & Defending Active Directory Lab             ║
-║   EXAM:           24-hour hands-on | 5 target machines + foothold       ║
-║   FORMAT:         Assumed Breach — start as low-priv domain user        ║
-║   ENV:            Fully patched Windows Server 2022 + SQL Server 2017   ║
-║   PHILOSOPHY:     Abuse features & misconfigs — NO CVE exploits needed  ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📋 Table of Contents
+##  Table of Contents
 
 | # | Module | Key Topics |
 |---|--------|-----------|
